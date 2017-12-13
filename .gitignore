@@ -6,6 +6,7 @@ data/
 model/
 inputs/
 outputs/
+MANIFEST
 
 # VIM
 *.swp
